@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yeshwanth Kumar</h1>
+<h3 align="center">CSE (AIML) Student | Exploring Generative AI | Future AI Engineer</h3>
 
-<!--
-**myk777889/myk777889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Pursuing B.Tech in CSE (AIML)
+- 🤖 Currently learning **Generative AI, Machine Learning & Python**
+- 🧠 Building skills through projects & experiments
+- 💼 Preparing for AI internships
+- 🔭 Working on: Python projects, ML basics, GenAI models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C  
+- **AI/ML:** Machine Learning, Deep Learning, Generative AI  
+- **Tools:** VS Code, GitHub  
+- **Other:** Problem Solving, Debugging  
+
+---
+
+### 📂 Featured Projects (coming soon)
+- 🧩 Python Basics  
+- 📊 ML Beginners  
+- 🤖 GenAI Experiments  
+- 🤝 Chatbot (Python + C) with a friend  
+
+---
+
+### 🌐 Connect With Me
+- 💼 LinkedIn: *your LinkedIn link here*
+- 📧 Email: *your email*
+
+---
+
+⭐ **Feel free to explore my repositories!**
