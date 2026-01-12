@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C  
+- **Languages:** Python, 
 - **AI/ML:** Machine Learning, Deep Learning, Generative AI  
 - **Tools:** VS Code, GitHub  
 - **Other:** Problem Solving, Debugging  
