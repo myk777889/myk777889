@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yeshwanth Kumar</h1>
+<h1 align="center">Hi 👋, I'm M. Yeshwanth Kumar</h1>
 <h3 align="center">CSE (AIML) Student | Exploring Generative AI | Future AI Engineer</h3>
 
 
